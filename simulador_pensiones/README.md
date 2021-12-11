@@ -1,0 +1,1 @@
+Esta aplicacion fue realizada para el proyecto inicial de el ramo TICS que consistia en un simulador de pensiones.
